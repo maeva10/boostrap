@@ -1,0 +1,43 @@
+.card-custom {
+    background-color: #d1c4e9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+.sidebar {
+    height: 100vh;
+    padding: 20px;
+}
+.sidebar .color-block {
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.main-content {
+    padding: 20px;
+}
+.card-custom {
+    background-color: #d1c4e9;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.profile img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.card-custom2 {
+    background-color: #d1c4e9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 70vh;
+}
+.btn {
+    height: 1%;
+}
